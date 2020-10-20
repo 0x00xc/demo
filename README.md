@@ -1,0 +1,2 @@
+DEMO
+基于jenkins的自动化部署
